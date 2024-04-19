@@ -1,5 +1,4 @@
-#   Vladylena's Project
-#   Diving Into Dividends: A Personal Journey Through Data Analysis
+#   Dividend Insights
 
 ##   Introduction:
   Hello, fellow investors and data enthusiasts! Today, I'm thrilled to share a project that merges two of my greatest passions: investing in the stock market and data analysis. Through this endeavor, not only have I sharpened my analytical skills, but I've also gained actionable insights that are guiding my investment decisions. Let's dive into the details of my "Dividend Analysis" project, which I conducted using a comprehensive dataset from Kaggle.
